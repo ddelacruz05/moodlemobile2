@@ -1,5 +1,6 @@
 {
     "about": "Acerca de",
+	"appname": "Moodle Mobile AVUG {{version}}",
     "cacheexpirationtime": "Tiempo de expiración de caché (mili segundos)",
     "currentlanguage": "Idioma actual",
     "deletesitefiles": "¿Está seguro de que desea borrar todos los archivos descargados de este sitio?",
